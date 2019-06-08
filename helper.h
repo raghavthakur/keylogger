@@ -5,7 +5,7 @@
 #include <string>
 #include <sstream>
 
-namespace helper
+namespace Helper
 {
     template <class T>
 
@@ -40,12 +40,15 @@ namespace helper
 
         std::string GetDateString() const
         {
-            return std::string(day < 10 ? "0" : "") + ToString(day) + std::string(month < 10 ? ".0" : ".") + ToString(month) + "." + ToString(year);
+            return std::string(day < 10 ? "0" : "") + ToString(day)
+                + std::string(month < 10 ? ".0" : ".") + ToString(month) + "." + ToString(year);
         }
 
         std::string GetTimeString(const std::string &sep = ":") const
         {
-            return std::string(hour < 10 ? "0" : "") + ToString(hour) + sep + std::string(minute < 10 ? "0" : "") + ToString(minute) + sep + std::string(second < 10 ? sep : "") + ToString(second);
+            return std::string(hour < 10 ? "0" : "") + ToString(hour) + sep
+                + std::string(minute < 10 ? "0" : "") + ToString(minute) + sep
+                + std::string(second < 10 ? sep : "") + ToString(second);
         }
 
         std::string GetDateTimeString(const std::string &sep = ":") const
@@ -67,7 +70,7 @@ namespace helper
     void WriteAppLog(const std::string &s)
     {
         std::ofstream file("AppLog.txt", std::ios::app);
-        file << "[" << helper::DateTime().GetDateTimeString() << "]" << "\n" << s << std::endl << "\n";
+        file << "[" << Helper::DateTime().GetDateTimeString() << "]" << "\n" << s << std::endl << "\n";
         file.close();
     }
 
