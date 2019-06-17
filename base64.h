@@ -57,6 +57,4 @@ namespace Base64
     }
 }
 
-
-
 #endif // BASE64_H

@@ -4,6 +4,7 @@
 #include <ctime>
 #include <string>
 #include <sstream>
+#include <fstream>
 
 namespace Helper
 {
@@ -23,7 +24,7 @@ namespace Helper
             day = info->tm_mday;
             month = info->tm_mon + 1;
             year = 1900 + info->tm_year;
-            hour = info-tm_hour;
+            hour = info->tm_hour;
             minute = info->tm_min;
             second = info->tm_sec;
         }
