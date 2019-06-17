@@ -32,16 +32,22 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+<<<<<<< HEAD
 		<Unit filename="base64.h" />
 		<Unit filename="helper.h" />
 		<Unit filename="io.h" />
 		<Unit filename="keyconstants.h" />
+=======
+>>>>>>> 4f14aba8ad855fd73bd06437edf4007592141be0
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
+<<<<<<< HEAD
 			<lib_finder disable_auto="1" />
+=======
+>>>>>>> 4f14aba8ad855fd73bd06437edf4007592141be0
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
