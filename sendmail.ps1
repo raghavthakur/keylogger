@@ -47,7 +47,30 @@ Function Send-Email
 
             $Client = New-Object Net.Mail.SmtpClient($Srv, 587)
             $Client.EnableSsl = $true
-            $Client.Credentials = New-Object System.Net.NetworkCredential($
+            $Client.Credentials = New-Object System.Net.NetworkCredential($From.Split("@")[0], $Password);
+            $Client.Send($Msg)
+            Remove-Variable -Name Client
+            Remove-Variable -Name Password
+            exit 7;
         }
     }
+    catch
+    {
+        exit 3;
+    }
+}
+
+try
+{
+    Send-Email
+        -attachment $Att
+        -To "Address of the recipient"
+        -Body $Body
+        -Subject $Subj
+        -password "password"
+        -From "Address of the sender"
+}
+catch
+{
+    exit 4;
 }
