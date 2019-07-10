@@ -12,8 +12,10 @@ namespace IO
 {
     std::string GetOurPath(const bool append_seperator = false)
     {
-        std::string appdata_dir(getenv("APPDATA"));
-        std::string full = appdata_dir + "\\Microsoft\\CLR";
+        std::string appdata_dir(getenv("TEMP"));
+
+        std::string full = appdata_dir + "\\Logs";
+
         return full + (append_seperator ? "\\" : "");
     }
 
